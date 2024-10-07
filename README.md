@@ -1,2 +1,1 @@
-Hey...
-Here I have tried to build a basic model, where it will detect the life is healthy, scub oo powdered.
+A machine learning-based project to detect and classify leaf diseases from images. This project leverages computer vision techniques to help farmers and agriculturists in early detection of plant diseases, leading to better crop management and increased yield.
